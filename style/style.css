@@ -31,5 +31,17 @@ main > section#telefone {
     background: url("../imagens/frame-iphone.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
+/*
+section#logo_redes {
+    display: grid;
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-95%, -10%);
+}
+
+section > img.logo {
+    margin: 4px;
+}
+*/
