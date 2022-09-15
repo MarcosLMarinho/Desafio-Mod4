@@ -45,3 +45,13 @@ section > img.logo {
     margin: 4px;
 }
 */
+iframe#tela {
+    position: relative;
+    top: 81px;
+    left: 22px;
+
+    width: 269px;
+    height: 471px;
+
+    
+}
